@@ -43,16 +43,16 @@ function johnLennonFacts(facts) {
 //4. loop increments number passed in as a parameter
 //5. condition of loop should check that the parameter number is <15
 //6. function should return array with strings "I love the Beatles!"
-
-function iLoveTheBeatles(num){
-  var array = []; {
-    for (let i = 0; i < num; i++ )
-  do {
-    array.push("I love the Beatles!");
-    num++;
-  }
-  while(num < 15);
-
-  return array;
-}
-}
+//
+// function iLoveTheBeatles(num){
+//   var array = []; {
+//     for (let i = 0; i < num; i++ )
+//   do {
+//     array.push("I love the Beatles!");
+//     num++;
+//   }
+//   while(num < 15);
+//
+//   return array;
+// }
+// }
